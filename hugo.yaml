@@ -1,0 +1,42 @@
+# Hugo configuration file
+title: "CS 40: Cloud Application Deployment"
+baseURL: "https://infracourse.cloud"
+
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Assignments
+      pageRef: /assignments
+      weight: 1
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/infracourse"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: false
+
+  footer:
+    enable: false
+
