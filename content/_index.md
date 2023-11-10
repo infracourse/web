@@ -11,16 +11,16 @@ width: full
 ### Winter 2024
 
 **Mondays & Wednesdays, 4:30 PM -- 5:50 PM** \
-**[380-380X](https://campus-map.stanford.edu/?srch=380-380X)**
+**[380-380W](https://campus-map.stanford.edu/?srch=380-380W)**
 
 Trying to launch your next viral programming project and anticipating substantial user growth? This course will help you learn to implement your ideas in the cloud in a scalable, cost-effective manner. Topics will include cloud AI/ML pipelines, virtual machines, containers, basic networking, expressing infrastructure as code (IaC), data management, security and observability, and continuous integration and deployment (CI/CD). Through hands-on learning and practical examples, you'll learn to effectively deploy and manage cloud infrastructure. There is no out-of-pocket cost associated with this class and cloud credits will be provided for all students.
 
 ## Course Staff
 
 {{< cards rows="6" >}}
-  {{< card link="/" title="Aditya Saligrama" image="jpg/instructors/saligrama.jpg" link="https://saligrama.io" subtitle="Instructor" method="resize">}}
-  {{< card link="/" title="Cody Ho" image="/jpg/instructors/ho.jpg" link="https://github.com/aesrentai" subtitle="Instructor" >}}
-  {{< card link="/" title="Ben Tripp" image="/jpg/instructors/tripp.jpg" link="https://www.linkedin.com/in/benjamin-tripp/" subtitle="Teaching Assistant" >}}
+  {{< card link="/" title="Aditya Saligrama" image="jpg/instructors/saligrama.jpg" link="https://saligrama.io" subtitle="Instructor&#10;saligrama@stanford.edu" method="resize">}}
+  {{< card link="/" title="Cody Ho" image="/jpg/instructors/ho.jpg" link="https://github.com/aesrentai" subtitle="Instructor&#10;codyho@stanford.edu" >}}
+  {{< card link="/" title="Ben Tripp" image="/jpg/instructors/tripp.jpg" link="https://www.linkedin.com/in/benjamin-tripp/" subtitle="Teaching Assistant&#10;btripp@stanford.edu" >}}
   {{< card link="/" title="Mike Abbott" image="/jpg/instructors/abbott.jpg" link="https://www.linkedin.com/in/michaelabbott" subtitle="Advisor" >}}
   {{< card link="/" title="Christos Kozyrakis" image="/jpg/instructors/kozyrakis.jpg" link="https://web.stanford.edu/~kozyraki/" subtitle="Faculty Sponsor" >}}
 {{< /cards >}}
