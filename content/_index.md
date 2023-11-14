@@ -40,7 +40,7 @@ Trying to launch your next viral programming project and anticipating substantia
 * **Wednesday, January 17**: Networking in Practice (CH)
 
 {{< callout type="info" >}}
-  Assignment 0 due **Tuesday, January 16** at 11:59 PM PT.
+  Assignment 0 due **Friday, January 19** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Databases and Data Management 
@@ -115,6 +115,6 @@ CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:5
   - Editing code with a TUI editor such as `vim`, `emacs`, or `nano`
   - Using Git and GitHub for collaborative projects (i.e. branching and pull requests)
   - Basic familiarity with package managers for languages and operating systems (e.g., `pip`, `apt`, `homebrew`)
-  - Prior web development or networking experience helpful but not required
+* Prior web development or networking experience helpful but not required
 
 Please talk to us if you have any questions about your readiness for this class.
