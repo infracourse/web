@@ -39,14 +39,15 @@ Trying to launch your next viral programming project and anticipating substantia
 * **Monday, January 15**: No lecture (Martin Luther King Jr. Day)
 * **Wednesday, January 17**: Networking in Practice (CH)
 
-{{< callout type="info" >}}
-  Assignment 0 due **Friday, January 19** at 11:59 PM PT.
-{{< /callout >}}
-
 ### Databases and Data Management 
 
 * **Monday, January 22**: Types of Cloud Storage; Object Storage (AS)
 * **Wednesday, January 24**: Record Storage & Database Tradeoffs (*Guest Speaker*)
+
+
+{{< callout type="info" >}}
+  Assignment 1 due **Tuesday, January 23** at 11:59 PM PT.
+{{< /callout >}}
 
 ### Programmatically Managing Infrastructure at Scale
 
@@ -64,7 +65,7 @@ Trying to launch your next viral programming project and anticipating substantia
 * **Wednesday, February 14**: Training Machine Learning Models at Scale (CH)
 
 {{< callout type="info" >}}
-  Assignment 1 due **Tuesday, February 13** at 11:59 PM PT.
+  Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Machine Learning Deployment
@@ -78,7 +79,7 @@ Trying to launch your next viral programming project and anticipating substantia
 * **Wednesday, February 28**: System Architecture Patterns (*Guest Speaker*)
 
 {{< callout type="info" >}}
-  Assignment 2 due **Tuesday, February 27** at 11:59 PM PT.
+  Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Emerging Trends in Cloud Computing
@@ -87,7 +88,7 @@ Trying to launch your next viral programming project and anticipating substantia
 * **Wednesday, March 6**: Ethical Considerations (CH)
 
 {{< callout type="info" >}}
-  Assignment 3 due **Thursday, March 7** at 11:59 PM PT.
+  Assignment 4 due **Thursday, March 7** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Special Topics and Student-Requested Content
