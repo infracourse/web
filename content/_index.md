@@ -11,7 +11,7 @@ width: full
 ### Winter 2024
 
 **Mondays & Wednesdays, 4:30 PM -- 5:50 PM** \
-**[380-380W](https://campus-map.stanford.edu/?srch=380-380W)**
+**[530-127](https://campus-map.stanford.edu/?srch=530-127)** (enter from Duena St or Building 530 courtyard)
 
 Trying to launch your next viral programming project and anticipating substantial user growth? This course will help you learn to implement your ideas in the cloud in a scalable, cost-effective manner. Topics will include cloud AI/ML pipelines, virtual machines, containers, basic networking, expressing infrastructure as code (IaC), data management, security and observability, and continuous integration and deployment (CI/CD). Through hands-on learning and practical examples, you'll learn to effectively deploy and manage cloud infrastructure. There is no out-of-pocket cost associated with this class and cloud credits will be provided for all students.
 
