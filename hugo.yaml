@@ -19,15 +19,21 @@ markup:
 
 menu:
   main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Course Info
+      pageRef: /info
+      weight: 2
     - name: Assignments
       pageRef: /assignments
-      weight: 1
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 5
       url: "https://github.com/infracourse"
       params:
         icon: github
