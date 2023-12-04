@@ -42,7 +42,7 @@ Trying to launch your next viral programming project and anticipating substantia
 ### Databases and Data Management 
 
 * **Monday, January 22**: Types of Cloud Storage; Object Storage (AS)
-* **Wednesday, January 24**: Record Storage & Database Tradeoffs (*Guest Speaker*)
+* **Wednesday, January 24**: Database Design and Tradeoffs (*Benjamin Bercovitz, Co-Founder of Verkada*)
 
 
 {{< callout type="info" >}}
