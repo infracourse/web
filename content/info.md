@@ -19,6 +19,16 @@ CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:5
 
 Please talk to us if you have any questions about your readiness for this class.
 
+## Honor Code
+
+Students must adhere to [The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code) as it [pertains to CS courses](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf).
+
+As in all Stanford classes, you are expected to follow the Stanford Honor Code. Work submitted for grading should not be derived from or influenced by the work of others beyond your assignment partner (for assignments that allow submission with a partner). You (and if applicable, collectively with your partner) must do your own thinking, your own design, your own coding, and your own debugging. Any non-partner assistance you receive must remain within acceptable limits. Truthful citations must be made where required. All submissions are subject to plagiarism detection tools. Suspected violations are referred to the Community Standards office.
+
+The use of large language models (LLMs) such as ChatGPT is allowed as a reference source for assignments, though we encourage you to only use them as a last resort rather than a starting point. We caution you that LLMs are not guaranteed to produce accurate technical output, especially when dealing with rapidly evolving technologies such as cloud infrastructure-as-code. In particular, CS 40 assignments involve using cloud best-practice code constructs as of early 2024, which may not be included in LLM training data.
+
+When using LLMs for assignment reference, you are required to include details in your assignment writeup regarding how you queried the LLM, what output you received, and how you incorporated the output in your work, for each query that informed your submission. Treat LLMs as a fallback, last-resort way to ask specific questions about individual implementation issues you might have. Do not ask for code that directly solves any of the assignments in entirety. If you have any questions about your usage of LLMs, we encourage you to contact us on Ed. LLM usage that deviates from this policy will be considered an honor code violation and referred to the Community Standards office.
+
 ## Access and Accommodations
 
 Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class.
