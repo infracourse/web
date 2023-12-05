@@ -33,6 +33,7 @@ Trying to launch your next viral programming project and anticipating substantia
 
 * **Monday, January 8**: Course Intro & Overview; Building Blocks of Cloud Infrastructure (Both)
 * **Wednesday, January 10**: Networking Crash Course (CH)
+* **Friday, January 12**: Basics of Web Apps (CH, Remote)
 
 ### Cloud Networking and Data Flows
 
