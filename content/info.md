@@ -19,6 +19,17 @@ CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:5
 
 Please talk to us if you have any questions about your readiness for this class.
 
+## Grading
+
+Final grades for the course will be determined using the following weights:
+
+* **60%**: Assignments
+  - Each of the four assignments will count for 15% of your final course grade.
+* **30%**: Final Project
+  - More details to come.
+* **10%**: Attendance and Participation
+  - Based on your attendance at course sessions with invited guest speakers. Regular class sessions won't count towards your participation grade.
+
 ## Honor Code
 
 Students must adhere to [The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code) as it [pertains to CS courses](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf).
