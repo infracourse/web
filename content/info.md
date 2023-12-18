@@ -7,6 +7,32 @@ width: wide
 
 CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:50pm. Students will be assessed based on completion of in-class activities as well as based on homework assignments that directly relate to that week’s topic and an open-ended final project. There are no exams.
 
+## Course Goals
+
+By the end of the quarter, you should expect to have learned about:
+
+1. The types of cloud resources made available by cloud providers that help in deploying applications.
+2. Architecting a cloud deployment by selecting resources for optimal scaling (performance) and cost efficiency.
+3. Systematically deploying cloud resources using Infrastructure as Code (IaC).
+4. Ensuring your deployment remains secure, observable, and continuously updated.
+
+## Course Staff
+
+Instructors:
+
+* Aditya Saligrama (`saligrama@stanford.edu`)
+* Cody Ho (`codyho@stanford.edu`)
+
+TAs:
+
+* Ben Tripp (`btripp@stanford.edu`)
+
+To contact us, please (preferably) make a post on Ed, or email `cs40-win2324-staff@lists.stanford.edu`.
+
+## Office Hours
+
+The office hours schedule will be announced on or before Week 1.
+
 ## Prerequisites
 
 * Programming maturity up to CS 107
@@ -25,6 +51,7 @@ Final grades for the course will be determined using the following weights:
 
 * **60%**: Assignments
   - Each of the four assignments will count for 15% of your final course grade.
+  - To pass the class, you must make a reasonable attempt to complete all assignments.
 * **30%**: Final Project
   - More details to come.
 * **10%**: Attendance and Participation
