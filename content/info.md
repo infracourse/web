@@ -31,7 +31,9 @@ To contact us, please (preferably) make a post on Ed, or email `cs40-win2324-sta
 
 ## Office Hours
 
-The office hours schedule will be announced on or before Week 1.
+* Aditya: TBA during or before Week 1
+* Cody: TBA during or before Week 1
+* Ben: Tuesdays & Thursdays, 1:00pm-2:00pm
 
 ## Prerequisites
 
