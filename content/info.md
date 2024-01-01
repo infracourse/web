@@ -54,10 +54,10 @@ Final grades for the course will be determined using the following weights:
 * **60%**: Assignments
   - Each of the four assignments will count for 15% of your final course grade.
   - To pass the class, you must make a reasonable attempt to complete all assignments.
-* **30%**: Final Project
+* **40%**: Final Project
   - More details to come.
-* **10%**: Attendance and Participation
-  - Based on your attendance at course sessions with invited guest speakers. Regular class sessions won't count towards your participation grade.
+
+Attendance at at course sessions with invited guest speakers is mandatory. For students taking the class for a letter grade, each unexcused absence will reduce your course grade by a full letter grade. Students who are taking the class on a CR/NC basis may miss up to two guest speaker sessions without penalty; please try to inform us beforehand if you need to miss a session.
 
 ## Honor Code
 
