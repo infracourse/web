@@ -77,7 +77,7 @@ Trying to launch your next viral programming project and anticipating substantia
 ### Managing Large-Scale Cloud Deployments
 
 * **Monday, February 26**: Continuous Integration & Continuous Deployment (AS)
-* **Wednesday, February 28**: System Architecture Patterns (*Guest Speaker*)
+* **Wednesday, February 28**: Practical Considerations (CH)
 
 {{< callout type="info" >}}
   Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
@@ -85,8 +85,8 @@ Trying to launch your next viral programming project and anticipating substantia
 
 ### Emerging Trends in Cloud Computing
 
-* **Monday, March 4**: Practical Considerations (CH)
-* **Wednesday, March 6**: Ethical Considerations (CH)
+* **Monday, March 4**: Ethical Considerations (CH)
+* **Wednesday, March 6**: Cloud Billing Considerations (*Corey Quinn, Chief Cloud Economist, Duckbill Group*)
 
 {{< callout type="info" >}}
   Assignment 4 due **Thursday, March 7** at 11:59 PM PT.
