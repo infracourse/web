@@ -102,3 +102,9 @@ Trying to launch your next viral programming project and anticipating substantia
 {{< /callout >}}
 
 {{% /steps %}}
+
+## Calendar
+
+<br>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_cb7da9d2c706e56401e8dd35408791296e9f0850df3cd3b882e4ed1c64862180%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
