@@ -21,19 +21,18 @@ By the end of the quarter, you should expect to have learned about:
 Instructors:
 
 * Aditya Saligrama (`saligrama@stanford.edu`)
+  - Office hours: Mondays & Wednesdays, 11:00am-12:00pm
 * Cody Ho (`codyho@stanford.edu`)
+  - Office hours: Wednesdays & Fridays, 12:00pm-1:00pm
 
 TAs:
 
 * Ben Tripp (`btripp@stanford.edu`)
+  - Office hours: Tuesdays & Thursdays, 1:00pm-2:00pm
+
+Office hours will begin during Week 2.
 
 To contact us, please (preferably) make a post on Ed, or email `cs40-win2324-staff@lists.stanford.edu`.
-
-## Office Hours
-
-* Aditya: TBA during or before Week 1
-* Cody: TBA during or before Week 1
-* Ben: Tuesdays & Thursdays, 1:00pm-2:00pm
 
 ## Prerequisites
 
