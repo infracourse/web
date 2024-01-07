@@ -21,7 +21,7 @@ By the end of the quarter, you should expect to have learned about:
 Instructors:
 
 * Aditya Saligrama (`saligrama@stanford.edu`)
-  - Office hours: Mondays & Wednesdays, 11:00am-12:00pm
+  - Office hours: Mondays & Wednesdays, 10:00am-11:00am
 * Cody Ho (`codyho@stanford.edu`)
   - Office hours: Wednesdays & Fridays, 12:00pm-1:00pm
 
