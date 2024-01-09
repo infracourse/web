@@ -30,7 +30,7 @@ TAs:
 * Ben Tripp (`btripp@stanford.edu`)
   - Office hours: Tuesdays & Thursdays, 1:00pm-2:00pm
 
-Office hours will begin during Week 2.
+Office hours will begin during Week 2 after MLK weekend and will be hosted in the Huang basement.
 
 To contact us, please (preferably) make a post on Ed, or email `cs40-win2324-staff@lists.stanford.edu`.
 
