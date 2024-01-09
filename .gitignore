@@ -5,3 +5,5 @@ resources/
 
 # Editor
 .vscode/
+
+.DS_Store
