@@ -32,7 +32,7 @@ Trying to launch your next viral programming project and anticipating substantia
 ### Foundations of Cloud Computing
 
 * **Monday, January 8**: [Course Intro & Overview; Building Blocks of Cloud Infrastructure](/lectures/2024-01-08-intro.pdf) (AS and CH)
-* **Wednesday, January 10**: Networking Crash Course (CH)
+* **Wednesday, January 10**: [Networking Crash Course](/lectures/2024-01-10-networking-crash-course.pdf) (CH)
 * **Wednesday, January 10, 8pm**: Basics of Web Apps (CH, Remote)
 
 ### Cloud Networking and Data Flows
