@@ -38,7 +38,7 @@ Trying to launch your next viral programming project and anticipating substantia
 ### Cloud Networking and Data Flows
 
 * **Monday, January 15**: No lecture (Martin Luther King Jr. Day)
-* **Wednesday, January 17**: Networking in Practice (CH)
+* **Wednesday, January 17**: Cloud Networking in Practice (CH)
 
 ### Databases and Data Management 
 
@@ -52,8 +52,8 @@ Trying to launch your next viral programming project and anticipating substantia
 
 ### Programmatically Managing Infrastructure at Scale
 
-* **Monday, January 29**: Intro to Infrastructure-as-Code & Cloud Automation Tools (CH)
-* **Wednesday, January 31**: Containerization & Container Orchestration (AS)
+* **Monday, January 29**: Containerization & Container Orchestration (AS)
+* **Wednesday, January 31**: Intro to Infrastructure-as-Code & Cloud Automation Tools (CH)
 
 ### Security and Observability
 
