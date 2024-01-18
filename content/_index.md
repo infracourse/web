@@ -38,7 +38,7 @@ Trying to launch your next viral programming project and anticipating substantia
 ### Cloud Networking and Data Flows
 
 * **Monday, January 15**: No lecture (Martin Luther King Jr. Day)
-* **Wednesday, January 17**: Cloud Networking in Practice (CH)
+* **Wednesday, January 17**: [Cloud Networking in Practice](/lectures/2024-01-17-cloud-networking.pdf) (CH)
 
 ### Databases and Data Management 
 
