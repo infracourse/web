@@ -5,7 +5,7 @@ width: wide
 
 ## Course Structure
 
-CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:50pm. Students will be assessed based on completion of in-class activities as well as based on homework assignments that directly relate to that week’s topic and an open-ended final project. There are no exams.
+CS 40 is a 3-unit course that meets on Mondays and Wednesdays from 4:30pm to 5:50pm. Students will be assessed based on homework assignments that directly relate to that week’s topic and an open-ended final project. There are no exams.
 
 ## Course Goals
 
