@@ -58,6 +58,10 @@ Final grades for the course will be determined using the following weights:
 
 Attendance at at course sessions with invited guest speakers is mandatory. For students taking the class for a letter grade, each unexcused absence will reduce your course grade by a full letter grade. Students who are taking the class on a CR/NC basis may miss up to two guest speaker sessions without penalty; please try to inform us beforehand if you need to miss a session.
 
+## Late Work
+
+Work may be submitted late, but late submissions will incur a penalty of 10% of the final assignment grade for every day the assignment is late.  For example, if an assignment is turned in at 12:01AM, two minutes after the due date, and the unmodified grade is 85%, then the final grade for this assignment will be 75%.
+
 ## Honor Code
 
 Students must adhere to [The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code) as it [pertains to CS courses](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf).
