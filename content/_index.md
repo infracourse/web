@@ -47,7 +47,7 @@ Trying to launch your next viral programming project and anticipating substantia
 
 
 {{< callout type="info" >}}
-  Assignment 1 due **Tuesday, January 23** at 11:59 PM PT.
+  Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Programmatically Managing Infrastructure at Scale
