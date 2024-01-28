@@ -56,7 +56,7 @@ Final grades for the course will be determined using the following weights:
 * **40%**: Final Project
   - More details to come.
 
-Attendance at at course sessions with invited guest speakers is mandatory. For students taking the class for a letter grade, each unexcused absence will reduce your course grade by a full letter grade. Students who are taking the class on a CR/NC basis may miss up to two guest speaker sessions without penalty; please try to inform us beforehand if you need to miss a session.
+Attendance at at course sessions with invited guest speakers is mandatory. For students taking the class for a letter grade, each unexcused absence will reduce your course grade by a full letter grade; absences must be excused at least three days **before** the guest lecture (except in the event of illness or exceptional circumstances decided on a case by case basis).  The instructors reserve the right to not excuse an absence, and in general absences will only be excused for illness, one time professional or urgent personal commitments, or by previously documented OAE accomodation.  Students who are taking the class on a CR/NC basis may miss up to two guest speaker sessions without penalty; please try to inform us beforehand if you need to miss a session.
 
 ## Late Work
 
