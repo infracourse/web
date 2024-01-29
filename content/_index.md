@@ -18,11 +18,11 @@ Trying to launch your next viral programming project and anticipating substantia
 ## Course Staff
 
 {{< cards rows="6" >}}
-  {{< card link="/" title="Aditya Saligrama" image="jpg/instructors/saligrama.jpg" link="https://saligrama.io" subtitle="Instructor&#10;saligrama@stanford.edu" method="resize">}}
-  {{< card link="/" title="Cody Ho" image="/jpg/instructors/ho.jpg" link="https://github.com/aesrentai" subtitle="Instructor&#10;codyho@stanford.edu" >}}
-  {{< card link="/" title="Ben Tripp" image="/jpg/instructors/tripp.jpg" link="https://www.linkedin.com/in/benjamin-tripp/" subtitle="Teaching Assistant&#10;btripp@stanford.edu" >}}
-  {{< card link="/" title="Mike Abbott" image="/jpg/instructors/abbott.jpg" link="https://www.linkedin.com/in/michaelabbott" subtitle="Advisor" >}}
-  {{< card link="/" title="Christos Kozyrakis" image="/jpg/instructors/kozyrakis.jpg" link="https://web.stanford.edu/~kozyraki/" subtitle="Faculty Sponsor" >}}
+{{< card link="/" title="Aditya Saligrama" image="jpg/instructors/saligrama.jpg" link="https://saligrama.io" subtitle="Instructor&#10;saligrama@stanford.edu" method="resize">}}
+{{< card link="/" title="Cody Ho" image="/jpg/instructors/ho.jpg" link="https://github.com/aesrentai" subtitle="Instructor&#10;codyho@stanford.edu" >}}
+{{< card link="/" title="Ben Tripp" image="/jpg/instructors/tripp.jpg" link="https://www.linkedin.com/in/benjamin-tripp/" subtitle="Teaching Assistant&#10;btripp@stanford.edu" >}}
+{{< card link="/" title="Mike Abbott" image="/jpg/instructors/abbott.jpg" link="https://www.linkedin.com/in/michaelabbott" subtitle="Advisor" >}}
+{{< card link="/" title="Christos Kozyrakis" image="/jpg/instructors/kozyrakis.jpg" link="https://web.stanford.edu/~kozyraki/" subtitle="Faculty Sponsor" >}}
 {{< /cards >}}
 
 ## Schedule
@@ -31,74 +31,73 @@ Trying to launch your next viral programming project and anticipating substantia
 
 ### Foundations of Cloud Computing
 
-* **Monday, January 8**: [Course Intro & Overview; Building Blocks of Cloud Infrastructure](/lectures/2024-01-08-intro.pdf) (AS and CH)
-* **Wednesday, January 10**: [Networking Crash Course](/lectures/2024-01-10-networking-crash-course.pdf) (CH)
-* **Wednesday, January 10, 8pm**: [Basics of Web Apps](/lectures/2024-01-10-webapp-basics.pdf) (CH, recording on Ed)
+- **Monday, January 8**: [Course Intro & Overview; Building Blocks of Cloud Infrastructure](/lectures/2024-01-08-intro.pdf) (AS and CH)
+- **Wednesday, January 10**: [Networking Crash Course](/lectures/2024-01-10-networking-crash-course.pdf) (CH)
+- **Wednesday, January 10, 8pm**: [Basics of Web Apps](/lectures/2024-01-10-webapp-basics.pdf) (CH, recording on Ed)
 
 ### Cloud Networking and Data Flows
 
-* **Monday, January 15**: No lecture (Martin Luther King Jr. Day)
-* **Wednesday, January 17**: [Cloud Networking in Practice](/lectures/2024-01-17-cloud-networking.pdf) (CH)
+- **Monday, January 15**: No lecture (Martin Luther King Jr. Day)
+- **Wednesday, January 17**: [Cloud Networking in Practice](/lectures/2024-01-17-cloud-networking.pdf) (CH)
 
-### Databases and Data Management 
+### Databases and Data Management
 
-* **Monday, January 22**: [Storage on the Cloud](/lectures/2024-01-22-cloud-storage.pdf) (AS)
-* **Wednesday, January 24**: Database Design and Tradeoffs (*Benjamin Bercovitz, Co-Founder of Verkada*)
-
+- **Monday, January 22**: [Storage on the Cloud](/lectures/2024-01-22-cloud-storage.pdf) (AS)
+- **Wednesday, January 24**: [Applied Database Principles](/lectures/2024-01-24-applied-database-principles-guest.pdf) (_Benjamin Bercovitz, Co-Founder of Verkada_)
 
 {{< callout type="info" >}}
-  Assignment 1 due **Friday, January 26** at 11:59 PM PT.
+Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Programmatically Managing Infrastructure at Scale
 
-* **Monday, January 29**: Containerization & Container Orchestration (AS)
-* **Wednesday, January 31**: Intro to Infrastructure-as-Code & Cloud Automation Tools (CH)
+- **Monday, January 29**: Containerization & Container Orchestration (AS)
+- **Wednesday, January 31**: Intro to Infrastructure-as-Code & Cloud Automation Tools (CH)
 
 ### Security and Observability
 
-* **Monday, February 5**: Securing your Cloud Deployment (AS)
-* **Wednesday, February 7**: Auditing, Logging, and Observability (AS)
+- **Monday, February 5**: Securing your Cloud Deployment (AS)
+- **Wednesday, February 7**: Auditing, Logging, and Observability (AS)
 
 ### Managed Computing and Cloud Machine Learning
 
-* **Monday, February 12**: Serverless Compute; High-Performance Workloads (AS)
-* **Wednesday, February 14**: Training Machine Learning Models at Scale (CH)
+- **Monday, February 12**: Serverless Compute; High-Performance Workloads (AS)
+- **Wednesday, February 14**: Training Machine Learning Models at Scale (CH)
 
 {{< callout type="info" >}}
-  Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
+Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Machine Learning Deployment
 
-* **Monday, February 19**: No lecture (Presidents Day)
-* **Wednesday, February 21**: Architecting Machine Learning Deployments (*Guest Speaker*)
+- **Monday, February 19**: No lecture (Presidents Day)
+- **Wednesday, February 21**: Architecting Machine Learning Deployments (_Guest Speaker_)
 
 ### Managing Large-Scale Cloud Deployments
 
-* **Monday, February 26**: Continuous Integration & Continuous Deployment (AS)
-* **Wednesday, February 28**: Practical Considerations (CH)
+- **Monday, February 26**: Continuous Integration & Continuous Deployment (AS)
+- **Wednesday, February 28**: Practical Considerations (CH)
 
 {{< callout type="info" >}}
-  Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
+Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Emerging Trends in Cloud Computing
 
-* **Monday, March 4**: Ethical Considerations (CH)
-* **Wednesday, March 6**: Cloud Billing Considerations (*Corey Quinn, Chief Cloud Economist, Duckbill Group*)
+- **Monday, March 4**: Ethical Considerations (CH)
+- **Wednesday, March 6**: Cloud Billing Considerations (_Corey Quinn, Chief Cloud Economist, Duckbill Group_)
 
 {{< callout type="info" >}}
-  Assignment 4 due **Thursday, March 7** at 11:59 PM PT.
+Assignment 4 due **Thursday, March 7** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Special Topics and Student-Requested Content
 
-* **Monday, March 11**: TBD based on student interest
-* **Wednesday, March 13**: TBD based on student interest
+- **Monday, March 11**: TBD based on student interest
+- **Wednesday, March 13**: TBD based on student interest
 
 {{< callout type="info" >}}
-  Final project due **Sunday, March 17** at 11:59 PM PT.
+Final project due **Sunday, March 17** at 11:59 PM PT.
 {{< /callout >}}
 
 {{% /steps %}}
