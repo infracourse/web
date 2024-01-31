@@ -52,7 +52,7 @@ Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 ### Programmatically Managing Infrastructure at Scale
 
 - **Monday, January 29**: [Containerization & Container Orchestration](/lectures/2024-01-29-containerization-and-container-orchestration.pdf) (AS)
-- **Wednesday, January 31**: Intro to Infrastructure-as-Code & Cloud Automation Tools (CH)
+- **Wednesday, January 31**: [Intro to Infrastructure-as-Code & Cloud Automation Tools](/lectures/2024-01-31-intro-to-iac.pdf) (CH)
 
 ### Security and Observability
 
