@@ -57,7 +57,7 @@ Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 ### Security and Observability
 
 - **Monday, February 5**: [Identity and Access Management; Cloud Security I](/lectures/2024-02-05-iam-cloud-security.pdf) (AS)
-- **Wednesday, February 7**: Auditing, Logging, and Observability (AS)
+- **Wednesday, February 7**: [Auditing, Logging, and Observability; Cloud Security II](/lectures/2024-02-07-auditing-logging-observability.pdf) (AS)
 
 ### Managed Computing and Cloud Machine Learning
 
