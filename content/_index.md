@@ -71,11 +71,11 @@ Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
 ### Machine Learning Deployment
 
 - **Monday, February 19**: No lecture (Presidents Day)
-- **Wednesday, February 21**: Architecting Machine Learning Deployments (_Guest Speaker_)
+- **Wednesday, February 21**: Continuous Integration & Continuous Deployment (AS)
 
 ### Managing Large-Scale Cloud Deployments
 
-- **Monday, February 26**: Continuous Integration & Continuous Deployment (AS)
+- **Monday, February 26**: Fireside Chat on Large-Scale Cloud Deployments (_Maria Zhang, VP of Engineering, Google_)
 - **Wednesday, February 28**: Practical Considerations (CH)
 
 {{< callout type="info" >}}
