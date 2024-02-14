@@ -62,7 +62,7 @@ Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 ### Managed Computing and Cloud Machine Learning
 
 - **Monday, February 12**: [Serverless Computing](/lectures/2024-02-12-serverless-computing.pdf) (AS)
-- **Wednesday, February 14**: Training Machine Learning Models at Scale (CH)
+- **Wednesday, February 14**: [Machine Learning and HPC](lectures/2024-02-14-machine-learning-and-hpc.pdf) (CH)
 
 {{< callout type="info" >}}
 Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
