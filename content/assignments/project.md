@@ -31,7 +31,7 @@ You may use any of these examples as your final project directly. Feel free to c
   - The course staff cannot guarantee their ability to assist with any IaC framework except AWS CDK
 * A multilayer architecture, including separate application and data layers
   - This means no static web apps
-* Elasticity (must efficiently scale out/in to match user demand)
+* Elasticity (must efficiently scale up/down to match user demand)
   - Your application should not be grossly overprovisioned by default
   - This can be achieved using services like Fargate, Lambda, Aurora, Auto Scaling Groups, etc.
 * Load distribution for performance
