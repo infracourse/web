@@ -26,7 +26,9 @@ You may use any of these examples as your final project directly. Feel free to c
 
 ## Architecture Requirements
 
-* Entire infrastructure deployment must be contained within an AWS CDK project
+* ~~Entire infrastructure deployment must be contained within an AWS CDK project~~ Entire infrastructure deployment must be done using IaC
+  - An exception is made for any potential interactions with the CS40 DNS provisioner if used
+  - The course staff cannot guarantee their ability to assist with any IaC framework except AWS CDK
 * A multilayer architecture, including separate application and data layers
   - This means no static web apps
 * Elasticity (must efficiently scale out/in to match user demand)
