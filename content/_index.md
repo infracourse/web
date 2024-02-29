@@ -76,7 +76,7 @@ Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
 ### Managing Large-Scale Cloud Deployments
 
 - **Monday, February 26**: Fireside Chat on Large-Scale Cloud Deployments (_Maria Zhang, VP of Engineering, Google_)
-- **Wednesday, February 28**: Practical Considerations (CH)
+- **Wednesday, February 28**: [Practical Considerations](/lectures/2024-02-28-practical-considerations.pdf) (CH)
 
 {{< callout type="info" >}}
 Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
