@@ -65,7 +65,7 @@ Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 - **Wednesday, February 14**: [Machine Learning and HPC](/lectures/2024-02-14-machine-learning-and-hpc.pdf) (CH)
 
 {{< callout type="info" >}}
-Assignment 2 due **Tuesday, February 13** at 11:59 PM PT.
+Assignment 2 due **Wednesday, February 14** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Machine Learning Deployment
@@ -88,7 +88,7 @@ Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
 - **Wednesday, March 6**: Cloud Billing Considerations (_Corey Quinn, Chief Cloud Economist, Duckbill Group_)
 
 {{< callout type="info" >}}
-Assignment 4 due **Thursday, March 7** at 11:59 PM PT.
+Assignment 4 due **Saturday, March 9** at 11:59 PM PT.
 {{< /callout >}}
 
 ### Special Topics and Student-Requested Content
