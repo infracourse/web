@@ -9,7 +9,7 @@ You will deploy a web application to AWS such that it could feasibly be used at 
 
 While we encourage you to be creative and deploy custom applications you may have written, the necessary development skills to do so are out-of-scope for the course. Final projects that deploy existing web or network software in a way that takes advantage of cloud services to meet the demands of scale still satisfy requirements and are eligible to receive full credit.
 
-**Note**: We're publicizing the below as requirements that your final project must fulfill. We will shortly add a grading rubric, some more example project ideas (which you may use directly), and an example report for Yoctogram. Later in the quarter, we'll also publish submission instructions for the project.
+**Note**: We're publicizing the below as requirements that your final project must fulfill. We will shortly add a grading rubric, some more example project ideas (which you may use directly). Later in the quarter, we'll also publish submission instructions for the project.
 
 ## Examples
 
@@ -23,6 +23,8 @@ You may use any of these examples as your final project directly. Feel free to c
   - Logging
 * Run a Wordpress instance for hosted content such as a blog
 * Run a Shynet instance for privacy-preserving web analytics
+
+An example writeup for Yoctogram is available [here](/assignments/project/yoctogram-example-writeup.pdf).
 
 ## Architecture Requirements
 
