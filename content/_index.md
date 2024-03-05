@@ -84,7 +84,7 @@ Assignment 3 due **Tuesday, February 27** at 11:59 PM PT.
 
 ### Emerging Trends in Cloud Computing
 
-- **Monday, March 4**: Ethical Considerations (CH)
+- **Monday, March 4**: [Ethical Considerations](/lectures/2024-03-04-ethical-considerations.pdf) (CH)
 - **Wednesday, March 6**: Cloud Billing Considerations (_Corey Quinn, Chief Cloud Economist, Duckbill Group_)
 
 {{< callout type="info" >}}
