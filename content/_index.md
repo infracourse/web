@@ -68,12 +68,12 @@ Assignment 1 due **Friday, January 26** at 11:59 PM PT.
 Assignment 2 due **Wednesday, February 14** at 11:59 PM PT.
 {{< /callout >}}
 
-### Machine Learning Deployment
+### Managing Large-Scale Cloud Deployments
 
 - **Monday, February 19**: No lecture (Presidents Day)
 - **Wednesday, February 21**: [Continuous Integration & Continuous Deployment](/lectures/2024-02-21-ci-cd.pdf) (AS)
 
-### Managing Large-Scale Cloud Deployments
+### Managing Large-Scale Cloud Deployments (contd.)
 
 - **Monday, February 26**: Fireside Chat on Large-Scale Cloud Deployments (_Maria Zhang, VP of Engineering, Google_)
 - **Wednesday, February 28**: [Practical Considerations](/lectures/2024-02-28-practical-considerations.pdf) (CH)
@@ -93,7 +93,7 @@ Assignment 4 due **Saturday, March 9** at 11:59 PM PT.
 
 ### Special Topics and Student-Requested Content
 
-- **Monday, March 11**: TBD based on student interest
+- **Monday, March 11**: Evolution of the Cloud Ecosystem (_Ruslan Meshenberg, VP of Engineering, Google_)
 - **Wednesday, March 13**: TBD based on student interest
 
 {{< callout type="info" >}}
