@@ -21,8 +21,12 @@ You may use any of these examples as your final project directly. Feel free to c
   - DNS
   - Security policies for exposed resources
   - Logging
-* Run a Wordpress instance for hosted content such as a blog
+* Run an open-source CMS like Wordpress, Joomla, or Drupal for managing website content or blogging
 * Run a Shynet instance for privacy-preserving web analytics
+* Run a forum using software like Discourse or Flarum, or a self hosted Wiki like MediaWiki
+* Run a project management tool like Redmine or Taiga
+* Run an IRC server like UnrealIRCd
+* Run a demo/toy application with a more complex microservice architecture such as those [from this list](https://github.com/davidetaibi/Microservices_Project_List/blob/master/README.md#demotoy--projects-mainly-for-learning-or-research-purpose)
 
 An example writeup for Yoctogram is available [here](/assignments/project/yoctogram-example-writeup.pdf).
 
