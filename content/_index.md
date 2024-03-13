@@ -94,7 +94,7 @@ Assignment 4 due **Saturday, March 9** at 11:59 PM PT.
 ### Special Topics and Student-Requested Content
 
 - **Monday, March 11**: Evolution of the Cloud Ecosystem (_Ruslan Meshenberg, VP of Engineering, Google_)
-- **Wednesday, March 13**: Everything We Forgot to Tell You (AS and CH)
+- **Wednesday, March 13**: [Everything We Forgot To Tell You](/lectures/2024-03-13-everything-we-forgot-to-tell-you.pdf) (AS and CH)
 
 {{< callout type="info" >}}
 Final project due **Sunday, March 17** at 11:59 PM PT.
