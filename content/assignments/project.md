@@ -49,14 +49,28 @@ An example writeup for Yoctogram is available [here](/assignments/project/yoctog
   - Reasonable IAM policies
 * DNS/TLS properly configured for endpoints
   - Includes frontend and backend if necessary for CORS
-* Observability for monitoring key metrics
-  - AWS Cloudwatch, Datadog, etc.
+* ~~Observability for monitoring key metrics~~ Observability requirement has been relaxed.  An observability solution is still highly encouraged but no longer required.
+  - ~~AWS Cloudwatch, Datadog, etc.~~
 
 ## Deliverables
 
 We expect the following components:
 
 * A way to access the deployed application – ideally has DNS and TLS configured
-* A .zip file containing the source code to the CDK project used to deploy the application
+* The source code of all IaC used to deploy application.  If a custom web app, submit web app code as well.
 * A short report detailing the cloud services that were used, how they interoperate,  difficulties encountered, and takeaways learned from the deployment.
   - This report should include an architecture diagram
+* Include links to any code/web, tutorials, guides, Github repos, or any other resources used
+
+## Submission Instructions
+
+On Gradescope, there are two assignments:
+
+* Final Project Writeup: submit a PDF of your report here
+  - This is where you will be able to view your final grade for the final project.  Don't worry about page selection-- we'll read the whole thing.
+* Final Project Code: submit the IaC used to deploy your app.  If a custom web app was deployed, include the code of the custom web app.
+  - The code itself will not receive a grade, this assignment is merely a way to submit your code to us for grading.
+
+Leave your web app up until *after* 11:59 on Tuesday, March 3/26 (the final deadline for posting grades).  If you have insufficient credits to keep your assignment up this long, make a private Ed post.
+
+Congratulations on finishing CS 40!  Thank you for your support in the first year we are offering this class!
